@@ -1,1 +1,4 @@
-body {color:#0672ee;}
+/*supuestamente esto deberia cambiar el color de las letras y el cuerpo de mi html*/
+body{
+    background: black;
+}
